@@ -1,0 +1,18 @@
+{
+    "standardName": "MedicalCertificate",
+    "standardCode": "",
+    "version": "1.0.2",
+    "messages" : [
+        {
+            "rootTagName": "MedicalCertificate",
+            "versionPath": "/Bundle/entry/resource/Composition/extension/valueString/@value",
+            "schemaFilePath": "/schema/MedicalCertificate-Schema.json",            
+            "schematronFilePath": "",
+            "vcSchema":{
+                "schemaName":"MedicalCertificate",
+                "schemaType":"MedicalCertificate3",
+                "schemaVersion": "1.0.2"
+            }
+        }
+    ]
+}
